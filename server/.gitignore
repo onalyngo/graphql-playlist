@@ -1,0 +1,8 @@
+.DS_Store
+jest/*
+coverage
+node_modules
+node_modules/
+build/
+.env*
+.serverless
